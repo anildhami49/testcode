@@ -1,0 +1,12 @@
+# name is key and anil is value
+name: anil
+age : 30
+# Server is  object
+Server :
+  name : shubham
+  age : 35
+# Social media is a List 
+social_media :
+ -instagram-anildhami
+ -youtube.com
+ -whatspps
